@@ -5,7 +5,7 @@ You are welcome to my world 👋
 
 I am Kakooza Allan Klaus from Uganda in Africa.
 
-I am very passionate about RPA(Robotic Process Automation), got to know about it 2 years ago but am positive it is the career that I'll taking on for the rest of my life since am seeing it's value in real time.
+I am very passionate about RPA(Robotic Process Automation), got to know about it 2 years ago but am positive it is the career that I'll be taking on for the rest of my life since am seeing it's value in real time.
 
 I have a hands on experience with the UiPath platform and I've delivered a number of projects which include Invoicing Bot, Commission Bot, Reconcilation Bot and Extraction Bot using the REFramework for UiPath.
 
