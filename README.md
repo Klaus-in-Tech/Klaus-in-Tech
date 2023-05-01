@@ -11,7 +11,7 @@ I have hands on experience with the UiPath platform and I've delivered a number 
 
 I like learning and upskilling myself with the latest trends in the software automation space.
 
-Currently ading Python to m toolbox since my goal is intelligent automation.
+Currently agding Python to my toolbox since my goal is intelligent automation.
 
 I also like connecting with people that share the same niche with me.
 
