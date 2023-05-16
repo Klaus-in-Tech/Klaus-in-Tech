@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋</h1>
-[![github](https://github.com/Klaus-in-Tech/Klaus-in-Tech/assets/31986394/d33e80e4-db42-4439-8bdd-eafff1dcea67)]
+<img src="https://user-images.githubusercontent.com/70385488/147853861-a67c8643-ff0f-451c-943f-db4e5589e4ee.png">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=klaus-in-tech&label=Profile%20views&color=0e75b6&style=flat" alt="klaus-in-tech" /> </p>
 
 
