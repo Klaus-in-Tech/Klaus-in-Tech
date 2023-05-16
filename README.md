@@ -1,5 +1,6 @@
-### Hi there 👋
+<h1 align="center" ><b> Hi there 👋</b></h1>
 
+![github](https://github.com/Klaus-in-Tech/Klaus-in-Tech/assets/31986394/bd5fed37-236c-490b-bdbb-4c0ff12d21b1)
 
 You are welcome to my world 👋
 
