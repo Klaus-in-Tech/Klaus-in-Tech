@@ -19,7 +19,7 @@ Welcome to my world 👋. I am Kakooza Allan Klaus from Uganda🙋‍♂️. I a
 
 - 📫 How to reach me **kakoozaallanklaus@outlook.com**
 
-- 📄 Know about my experiences [My LinkedIn](https://www.linkedin.com/in/kakoozaallanklaus/)
+- 📄 Know about my experiences [through my LinkedIn](https://www.linkedin.com/in/kakoozaallanklaus/)
 <br><br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
