@@ -1,11 +1,7 @@
 <h1 align="center">Hi there 👋</h1>
-![github](https://github.com/Klaus-in-Tech/Klaus-in-Tech/assets/31986394/39afffd1-cecb-4069-9081-64a1f11f571e)
+![github](https://github.com/Klaus-in-Tech/Klaus-in-Tech/assets/31986394/d33e80e4-db42-4439-8bdd-eafff1dcea67)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=klaus-in-tech&label=Profile%20views&color=0e75b6&style=flat" alt="klaus-in-tech" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=klaus-in-tech" alt="klaus-in-tech" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/klaus_in_tech" target="blank"><img src="https://img.shields.io/twitter/follow/klaus_in_tech?logo=twitter&style=for-the-badge" alt="klaus_in_tech" /></a> </p>
 
 - 🌱 I’m currently learning **Python for Data Science**
 
