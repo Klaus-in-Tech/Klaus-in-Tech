@@ -4,7 +4,7 @@
 
 
 <p align="center"><strong>
-Welcome to my world 👋. I am Kakooza Allan Klaus from Uganda. I am very passionate about Robotic Process Automation. I have hands on experience with the UiPath and I've delivered a number of projects. I like learning and upskilling myself with the latest trends in the RPA, Artificial Intelligence(AI) and Machine Learning(ML) space. Currently adding Pythont🐍 to my toolbox since my goal is intelligent automation. I also like connecting with people that share the same niche with me🤓.
+Welcome to my world 👋. I am Kakooza Allan Klaus from Uganda🙋‍♂️. I am very passionate about Robotic Process Automation. I have hands on experience with the UiPath and I've delivered a number of projects. I like learning and upskilling myself with the latest trends in the RPA, Artificial Intelligence(AI) and Machine Learning(ML) space. Currently adding Pythont🐍 to my toolbox since my goal is intelligent automation. I also like connecting with people that share the same niche with me🤓.
   </strong></p>
 <p>
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966"></img>
@@ -34,4 +34,6 @@ Welcome to my world 👋. I am Kakooza Allan Klaus from Uganda. I am very passio
 
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=klaus-in-tech&" alt="klaus-in-tech" /></p>
+<img src="https://github.com/Klaus-in-Tech/Klaus-in-Tech/assets/31986394/de6a1436-f9dc-4478-b9d8-17bbdb0ea8fb">
+
+
