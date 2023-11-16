@@ -12,7 +12,6 @@ Welcome to my world 👋. I am Kakooza Allan Klaus from Uganda🙋‍♂️. I a
 
 <br>
 
-- 🌱 I’m currently learning **Python**
 
 - 👨‍💻 All of my projects are available at [My Repos](https://github.com/Klaus-in-Tech?tab=repositories)
 
