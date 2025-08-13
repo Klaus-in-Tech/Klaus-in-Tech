@@ -1,5 +1,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=klaus-in-tech&label=Profile%20views&color=0e75b6&style=flat" alt="klaus-in-tech" /> </p>
 
+![Codewars Badge](https://www.codewars.com/users/Klaus-in-Tech/badges/large)
 
 
 <h3 align="center"><strong>
